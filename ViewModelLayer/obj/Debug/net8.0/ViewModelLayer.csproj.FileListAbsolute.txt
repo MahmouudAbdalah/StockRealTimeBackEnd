@@ -1,0 +1,11 @@
+C:\Users\bodaa\source\repos\ViewModelLayer\bin\Debug\net8.0\ViewModelLayer.deps.json
+C:\Users\bodaa\source\repos\ViewModelLayer\bin\Debug\net8.0\ViewModelLayer.dll
+C:\Users\bodaa\source\repos\ViewModelLayer\bin\Debug\net8.0\ViewModelLayer.pdb
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.AssemblyInfoInputs.cache
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.AssemblyInfo.cs
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.dll
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\refint\ViewModelLayer.dll
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ViewModelLayer.pdb
+C:\Users\bodaa\source\repos\ViewModelLayer\obj\Debug\net8.0\ref\ViewModelLayer.dll

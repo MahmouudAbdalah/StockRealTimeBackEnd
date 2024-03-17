@@ -1,0 +1,15 @@
+C:\Users\bodaa\source\repos\RepositoriesLayer\bin\Debug\net8.0\RepositoriesLayer.deps.json
+C:\Users\bodaa\source\repos\RepositoriesLayer\bin\Debug\net8.0\RepositoriesLayer.dll
+C:\Users\bodaa\source\repos\RepositoriesLayer\bin\Debug\net8.0\RepositoriesLayer.pdb
+C:\Users\bodaa\source\repos\RepositoriesLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\bodaa\source\repos\RepositoriesLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.csproj.AssemblyReference.cache
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.AssemblyInfoInputs.cache
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.AssemblyInfo.cs
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.csproj.CoreCompileInputs.cache
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\Reposito.DC992DBE.Up2Date
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.dll
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\refint\RepositoriesLayer.dll
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\RepositoriesLayer.pdb
+C:\Users\bodaa\source\repos\RepositoriesLayer\obj\Debug\net8.0\ref\RepositoriesLayer.dll
