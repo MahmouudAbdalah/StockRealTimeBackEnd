@@ -1,0 +1,14 @@
+C:\Users\bodaa\source\repos\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\bodaa\source\repos\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\bodaa\source\repos\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\bodaa\source\repos\DomainLayer\bin\Debug\net8.0\DomainLayer.runtimeconfig.json
+C:\Users\bodaa\source\repos\DomainLayer\obj\Debug\net8.0\DomainLayer.genruntimeconfig.cache
