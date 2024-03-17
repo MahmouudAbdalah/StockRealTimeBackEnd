@@ -1,0 +1,21 @@
+<hr>
+<table class="table">
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Symbol</th>
+      <th>CurrentPice</th>
+      <th>TimeSpan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let stock of stocList; let i = index">
+      <td> {{i+1}}</td>
+      <!-- safe naviagation operator -->
+      <td>{{stock?.symbol}}</td>
+      <td><input type="number" [(ngModel)]="stock.currentPrice" (change)="updatePrice(stock)" /> </td>
+      <td>{{stock.timeStamps | date:'long'}}</td>
+    </tr>
+  </tbody>
+</table>
+<hr>

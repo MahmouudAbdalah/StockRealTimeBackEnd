@@ -1,0 +1,49 @@
+// Variables
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+
+// Styles
+form {
+    margin: 20px;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid $primary-color;
+    border-radius: 5px;
+
+    div {
+        margin-bottom: 15px;
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        select,
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: $primary-color;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+
+            &:hover {
+                background-color: darken($primary-color, 10%);
+            }
+
+            &:disabled {
+                opacity: 0.7;
+                cursor: not-allowed;
+            }
+        }
+    }
+}

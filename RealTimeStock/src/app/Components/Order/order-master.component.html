@@ -1,0 +1,26 @@
+<form [formGroup]="orderForm" (ngSubmit)="onSubmit()">
+  <div>
+    <label for="stockSymbol">Stock Symbol:</label>
+    <select id="stockSymbol" formControlName="stockSymbol" required>
+      <option value="">Select Stock Symbol</option>
+      <option value="AAPL">Apple Inc. (AAPL)</option>
+      <option value="GOOGL">Alphabet Inc. (GOOGL)</option>
+      <option value="MSFT">Microsoft Corporation (MSFT)</option>
+      <option value="AMZN">Amazon.com Inc. (AMZN)</option>
+      <option value="TSLA">Tesla Inc. (TSLA)</option>
+    </select>
+  </div>
+  <div>
+    <label for="orderType">Order Type:</label>
+    <select id="orderType" formControlName="orderType" required>
+      <option value="">Select Order Type</option>
+      <option value="Buy">Buy</option>
+      <option value="Sell">Sell</option>
+    </select>
+  </div>
+  <div>
+    <label for="quantity">Quantity:</label>
+    <input type="number" id="quantity" formControlName="quantity" required min="0">
+  </div>
+  <button type="submit" class="btn btn-primary" [disabled]="!orderForm.valid">Submit</button>
+</form>
